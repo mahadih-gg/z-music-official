@@ -1,0 +1,26 @@
+body{
+    background: linear-gradient(#30065A, #510f9d);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header{
+
+background: url(../images/bg-1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.search-icon{
+    background-color: #0000004d;
+    color: #fff;
+    border-radius: 50%;
+}
+.search-input{
+    background-color: #00000017;
+    border-radius: 20px;
+    border: .5px solid rgb(74, 3, 80);
+}
+.into{
+    width: 100%;
+    height: 80vh;
+    
+}
